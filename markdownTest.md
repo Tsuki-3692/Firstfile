@@ -15,7 +15,7 @@
 
 ### 三级标题
 
-![君名](C:\Users\24368\Pictures\壁纸\wallhaven-k9mx26.png)
+![君名](https://github.com/Tsuki-3692/Firstfile/blob/master/wallhaven-lqlrpl.png)
 
 ```c
 #include <stdio.h>
